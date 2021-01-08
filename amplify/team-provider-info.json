@@ -10,6 +10,17 @@
       "StackName": "amplify-myauth-dev-212704",
       "StackId": "arn:aws:cloudformation:eu-west-2:946130375398:stack/amplify-myauth-dev-212704/17822510-512f-11eb-bfc6-026934b64e18",
       "AmplifyAppId": "d2vdm7u7o94x2e"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2vdm7u7o94x2e",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "myauth4a0f5162": {}
+      }
     }
   }
 }
