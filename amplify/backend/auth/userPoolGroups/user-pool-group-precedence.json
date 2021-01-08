@@ -1,6 +1,6 @@
 [
-  {
-    "groupName": "osmicon",
-    "precedence": 1
-  }
+    {
+        "groupName": "osmicon",
+        "precedence": 1
+    }
 ]
